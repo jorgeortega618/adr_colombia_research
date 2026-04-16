@@ -1,0 +1,8 @@
+arch
+statsmodels
+ruptures
+pandas
+yfinance
+seaborn
+matplotlib
+numpy
